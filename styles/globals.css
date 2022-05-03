@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom {
+    /*background-image: radial-gradient(circle at 50% -20.71%, #ff9800 0, #ff831a 12.5%, #ff6d2c 25%, #ff5636 37.5%, #f23c3c 50%, #db2140 62.5%, #c60043 75%, #b30046 87.5%, #a2004a 100%);*/
+    /*background-image: linear-gradient(70deg, #ff7c8b 0, #ff6e8d 16.67%, #ff608d 33.33%, #f25389 50%, #d54783 66.67%, #bb3e7e 83.33%, #a43779 100%);*/
+    /*background-image: radial-gradient(circle at 12.62% 63.61%, #a278e8 0, #b471df 6.25%, #c36bd5 12.5%, #cf65ca 18.75%, #da5fbe 25%, #e35ab1 31.25%, #ea57a4 37.5%, #ef5496 43.75%, #f25389 50%, #f3547c 56.25%, #f3566f 62.5%, #f25962 68.75%, #ee5e55 75%, #ea6349 81.25%, #e4693e 87.5%, #dd6e32 93.75%, #d57427 100%);*/
+    background: radial-gradient(circle, rgba(79, 70, 229, 0.46) 10%, transparent 11%);
+    background-size: 2em 2em;
+    background-color: #f9f9ff;
+    /*opacity: 0.2*/
+}
