@@ -73,7 +73,7 @@ const Home: NextPage = () => {
 
   return (
         <div
-            className="bg-white dark:bg-gray-900 text-black dark:text-white flex min-h-screen flex-col items-center justify-center">
+            className="text-black dark:text-blue-900 flex min-h-screen flex-col items-center justify-center">
           <Head>
             <title>Euan Caskie</title>
             <link rel="icon" href="/favicon.ico"/>
